@@ -1,0 +1,2 @@
+graphs checked per n: {3: 4, 4: 11, 5: 34, 6: 156, 7: 1044}
+counterexamples (tau(G) > n-H(n)) among all graphs on <=7 vertices: 0
